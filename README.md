@@ -66,7 +66,7 @@ Make sure to have Tom Cat server
     
     - EmployeeVal Class (THis must be a Main Method)
     
-    - SisplayServlet Class
+    - DisplayServlet Class
     
 (4) Launch the page
 
