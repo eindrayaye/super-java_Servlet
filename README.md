@@ -46,4 +46,29 @@ Make sure to have Tom Cat server
 (5) Test
 
 
+*****************
+
+Project Assignment - 2
+
+* Create a web-page that display the Employee info:
+
+>>>>>>>>>>>>>>>
+
+Solution (Use JDK - Eclipse)
+
+Make sure to have Tom Cat server
+
+(1) Create a package
+
+(3) Create:
+
+    - Employee Class
+    
+    - EmployeeVal Class (THis must be a Main Method)
+    
+    - SisplayServlet Class
+    
+(4) Launch the page
+
+
 -- END---
